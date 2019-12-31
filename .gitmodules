@@ -1,0 +1,9 @@
+[submodule "ms-loader"]
+	path = ms-loader
+	url = git@github.com:kwen8/ms-loader.git
+[submodule "ms-master"]
+	path = ms-master
+	url = git@github.com:kwen8/ms-master.git
+[submodule "ms-submodule"]
+	path = ms-submodule
+	url = git@github.com:kwen8/ms-submodule.git
